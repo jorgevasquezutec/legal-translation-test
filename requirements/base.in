@@ -1,0 +1,16 @@
+pandas
+matplotlib
+numpy
+pdf2image
+opencv-python
+ipykernel
+transformers
+torch
+transformers[sentencepiece]
+torchvision
+pytesseract
+layoutparser
+pdf2image
+openai
+nltk
+google-cloud-vision
